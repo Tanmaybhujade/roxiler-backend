@@ -2,7 +2,7 @@ roxiler-backend
 This project aims to implement a backend system to manage and analyze product transactions. The backend is designed to interact with a third-party API to fetch product transaction data, and it provides various APIs for listing transactions, generating statistics, and creating charts based on the fetched data.
 
 Deployment
-The project is deployed and can be accessed at https://roxiler-backend-vijaykumars-projects.vercel.app. You can use the following APIs to interact with the system.
+The project is deployed and can be accessed at https://vercel.com/tanmaybhujades-projects/roxiler-backend . You can use the following APIs to interact with the system.
 
 API Endpoints
 Initialize Database
